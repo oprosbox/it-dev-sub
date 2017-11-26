@@ -1,0 +1,24 @@
+/*
+Theme Name:     portfol_len
+Template:       quality-construction
+Version:        0.1.0
+*/
+
+@import url("../quality-construction/style.css");
+@import url("css/button.css");
+
+.text-win{
+    padding:10px;
+    float:left;
+    width: 100%;
+    text-decoration: none;
+}
+
+.right{
+   margin: 10px 0;
+   border-radius: 6px;
+}
+
+.row-int{
+}
+
