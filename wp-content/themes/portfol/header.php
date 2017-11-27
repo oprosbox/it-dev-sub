@@ -19,7 +19,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <?php wp_head(); ?>
-   
+   <script>(function(){var script = document.createElement('script');script.type = 'text/javascript';script.async = true;script.charset = 'utf-8';script.src = 'https://152фз.рф/widget/981d39639bc7ef3980cf76a0fb6044d6';document.getElementsByTagName('head')[0].appendChild(script);})();</script><div id="fz_wrap"></div>
 </head>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
