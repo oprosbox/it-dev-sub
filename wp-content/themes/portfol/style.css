@@ -1,0 +1,94 @@
+/*
+Theme Name:     portfol_len
+Template:       quality-construction
+Version:        0.1.0
+*/
+
+@import url("../quality-construction/style.css");
+@import url("css/button.css");
+
+.text-win{
+    padding:10px;
+    float:left;
+    width: 100%;
+    text-decoration: none;
+}
+
+.right{
+   margin: 10px 0;
+   border-radius: 6px;
+}
+
+.row-int{
+}
+
+div.site-branding>p.site-title>a{
+    color: #48cfcd; 
+    text-shadow: 0 0 2px #fff;
+}
+
+div.site-branding>p.site-description{
+    color:   #13faab;   
+}
+
+nav#site-navigation{
+    background-image: url(image/light.png);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+.style_text{
+   font-family: arial; 
+   
+}
+
+.style_text li{
+  margin: 10px;  
+}
+
+.style_text li a{
+    color: #0099cc;
+}
+
+.style_text li a:visited{
+    color: #0099cc;
+}
+
+.address_text{
+    margin:20px;
+    padding: 20px;
+    border-width: 2px;
+    border-radius: 5px;
+    border-style: groove;
+    background-color:  #baf1ff;
+}
+
+.slider{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.address_text a{
+    color:#0033ff;
+}
+
+.address_text h4{
+    margin:15px 0;
+}
+
+.section16 input[type="text"], .section16 input[type="email"], .section16 textarea{
+    
+    padding:0px;
+    height:25px;
+    width:250px;
+} 
+
+ .section16 textarea{
+ width: 90%;
+ margin-left:auto;
+margin-right: auto; 
+ max-width: 600px;    
+ }
+ 
